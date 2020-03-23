@@ -22,5 +22,6 @@
     * 去掉 Enable debugging features 
     
 我有删除了spi flash的使用，直接把读取到的温度上传到onenet，使得工程大小进一步缩小；
+最后，通过使用keil的o3优化得到当下的大小
 ![enter description here](./images/1584693881441.png)
 
